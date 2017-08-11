@@ -4,7 +4,7 @@
 
 
 
-打开repo目录下的.git/config，url是HTTPS形式。
+在repo目录下的.git/config里面，url是HTTPS形式。
 
 [remote “origin”] 
 fetch = + refs/heads/:refs/remotes/origin/ 
